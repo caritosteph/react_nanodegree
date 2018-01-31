@@ -1,1 +1,2 @@
-# project_2
+# React Nanodegree
+Examples of my React Nanodegree course.
