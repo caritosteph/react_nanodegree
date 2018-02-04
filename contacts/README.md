@@ -1,6 +1,6 @@
 ## Contacts project
 CRUD of contacts
-. Show list of contacts
-. Search a contact
-. Remove a contact
-. Add a new contact
+1. Show list of contacts
+2. Search a contact
+3. Remove a contact
+4. Add a new contact
