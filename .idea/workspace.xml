@@ -2,28 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9689260b-5ca6-4eaf-aeb9-9a042691f889" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/contacts/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/contacts/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/contacts/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/contacts/public/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/contacts/public/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/contacts/public/manifest.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/contacts/src/App.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/contacts/src/App.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/contacts/src/CreateContacts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/contacts/src/ImageInput.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/contacts/src/ListContacts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/contacts/src/icons/arrow-back.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/contacts/src/icons/cancel.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/contacts/src/icons/person-add.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/contacts/src/icons/person.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/contacts/src/icons/search.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/contacts/src/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/contacts/src/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/contacts/src/registerServiceWorker.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/contacts/src/utils/ContactsAPI.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/contacts/yarn.lock" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MealsApp/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MealsApp/src/actions/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -57,7 +38,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MealsApp/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
@@ -67,17 +48,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ContactsApp/README.md">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MealsApp/src/actions/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="20" />
+            <state relative-caret-position="272">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -87,6 +75,8 @@
       <list>
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/MealsApp/README.md" />
+        <option value="$PROJECT_DIR$/MealsApp/.gitignore" />
+        <option value="$PROJECT_DIR$/MealsApp/src/actions/index.js" />
       </list>
     </option>
   </component>
@@ -126,12 +116,13 @@
             <path>
               <item name="react_nanodegree" type="b2602c69:ProjectViewProjectNode" />
               <item name="react_nanodegree" type="462c0819:PsiDirectoryNode" />
-              <item name="ContactsApp" type="462c0819:PsiDirectoryNode" />
+              <item name="MealsApp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="react_nanodegree" type="b2602c69:ProjectViewProjectNode" />
               <item name="react_nanodegree" type="462c0819:PsiDirectoryNode" />
               <item name="MealsApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -145,6 +136,14 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="nodejs_interpreter_path" value="/usr/bin/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MealsApp/src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MealsApp" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -168,12 +167,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1519654464662</updated>
-      <workItem from="1519654465817" duration="237000" />
+      <workItem from="1519654465817" duration="1598000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="237000" />
+    <option name="totallyTimeSpent" value="1598000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1050" extended-state="6" />
@@ -243,10 +242,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/MealsApp/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ContactsApp/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/MealsApp/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MealsApp/src/actions/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
