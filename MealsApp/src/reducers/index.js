@@ -44,7 +44,7 @@ function calendar (state = initialCalendarState, action) {
     switch (action.type) {
         case ADD_RECIPE:
             return {
-                ...sate,
+                ...state,
                 [day]: {
                     ...state[day],
                     [meal]: recipe.label
